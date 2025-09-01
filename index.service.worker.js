@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1756731371|3063605422';
+const CACHE_VERSION = '1756738778|10470869495';
 /** @type {string} */
 const CACHE_PREFIX = 'shaderoid-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
